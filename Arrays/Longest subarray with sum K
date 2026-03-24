@@ -1,0 +1,25 @@
+public class LongestSubarrayWithSumK {
+
+    public static int longestSubarray(int[] arr, int k) {
+        int left = 0, right = 0;
+        int currentSum = 0;
+        int maxLen = 0;
+
+        while (right < arr.length) {
+            currentSum += arr[right];
+
+            while (currentSum > k && left <= right) {
+                currentSum -= arr[left];
+                left++;
+            }
+
+            if (currentSum == k) {
+                maxLen = Math.max(maxLen, right - left + 1);
+            }
+
+            right++;
+        }
+
+        return maxLen;
+    }
+}
