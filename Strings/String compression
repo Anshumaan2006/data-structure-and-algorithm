@@ -1,0 +1,31 @@
+class Solution {
+    public int compress(char[] chars) {
+        int n = chars.length;
+        int index = 0; // write pointer
+
+        int i = 0;
+        while (i < n) {
+            char currentChar = chars[i];
+            int count = 0;
+
+            // count occurrences
+            while (i < n && chars[i] == currentChar) {
+                i++;
+                count++;
+            }
+
+            // write character
+            chars[index++] = currentChar;
+
+            // write count if > 1
+            if (count > 1) {
+                char[] countStr = String.valueOf(count).toCharArray();
+                for (char c : countStr) {
+                    chars[index++] = c;
+                }
+            }
+        }
+
+        return index;
+    }
+}
