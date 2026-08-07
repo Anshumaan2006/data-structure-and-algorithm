@@ -24,6 +24,7 @@ This repository contains my practice and learning journey of DSA using Java.
 | [0016-3sum-closest](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,8 @@ This repository contains my practice and learning journey of DSA using Java.
 | [0015-3sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0018-4sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
