@@ -25,6 +25,7 @@ This repository contains my practice and learning journey of DSA using Java.
 | [0018-4sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my practice and learning journey of DSA using Java.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
