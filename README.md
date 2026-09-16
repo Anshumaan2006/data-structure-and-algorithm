@@ -54,9 +54,14 @@ This repository contains my practice and learning journey of DSA using Java.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0796-rotate-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
