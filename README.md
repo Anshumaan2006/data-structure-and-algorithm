@@ -26,6 +26,7 @@ This repository contains my practice and learning journey of DSA using Java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3026-maximum-good-subarray-sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/3026-maximum-good-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,8 +61,13 @@ This repository contains my practice and learning journey of DSA using Java.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3026-maximum-good-subarray-sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/3026-maximum-good-subarray-sum) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/Anshumaan2006/data-structure-and-algorithm/tree/master/3026-maximum-good-subarray-sum) |
 <!---LeetCode Topics End-->
